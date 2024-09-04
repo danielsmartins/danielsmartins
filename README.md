@@ -1,6 +1,7 @@
-## Opa!Me chamo Daniel Silva
+### Hi there 👋 My name is Daniel Silva
 
-- 🌱 Estudante de tecnologia da informção no IMD/UFRN
+- 🌱 I'm a IT Student at IMD/UFRN
+-  See my LinkedIn: [Daniel Silva](https://www.linkedin.com/in/daniel-silva-martins/)
   
 <div align="center" style= display: 'inline_block'>
   <a href="https://github.com/danielsmartins">
