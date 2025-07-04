@@ -70,7 +70,7 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsmartins&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
 
-### ✍️ Quote
+### ✍️ Random daily Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 
