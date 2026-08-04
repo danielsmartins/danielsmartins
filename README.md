@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Daniel Silva
 
-- 🎓 Software Engineering student at IMD/UFRN (currently in the 4th semester)
+- 🎓 Software Engineering student at IMD/UFRN (currently in the 6th semester)
 - 🌱 Dedicated to learning and building fullstack applications
 - 🚀 Always exploring new tools, frameworks, and best practices
 
